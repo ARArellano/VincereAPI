@@ -1,0 +1,275 @@
+id,name,functionalexpertises_id,functionalexpertises_name
+187,Payroll,2983,Accounting
+188,Accounts Payable,2983,Accounting
+189,Accounts Receivables,2983,Accounting
+9,Audit,3093,Accounting & Finance
+10,Bus / Corp Planning,3093,Accounting & Finance
+11,CFO / Financial Controller,3093,Accounting & Finance
+12,Financial Planning & Analysis (Manager),3093,Accounting & Finance
+13,Financial Planning & Analysis (Staff),3093,Accounting & Finance
+14,General Accounting (Manager),3093,Accounting & Finance
+15,General Accounting (Staff),3093,Accounting & Finance
+16,Taxation,3093,Accounting & Finance
+17,Treasury / Credit / Risk,3093,Accounting & Finance
+190,Marketing Analytics,2988,Analytics & Marketing Operations
+191,Marketing Reporting,2988,Analytics & Marketing Operations
+192,Application Services,2989,Application Development
+193,Software Design & Development,2989,Application Development
+197,Carpenter,2991,Architecture / Construction
+194,Enterprise & Solutions Architecture,2990,Architecture & Project Management
+195,IT Project Management,2990,Architecture & Project Management
+196,IT Quality Assurance,2990,Architecture & Project Management
+198,Artist,2992,Art / Music / Entertainment
+199,Actor / Actress,2992,Art / Music / Entertainment
+200,Editor / Writer / Publisher,2992,Art / Music / Entertainment
+18,Application Engineer / Sales Engineer,3094,Automotive / Automotive Parts
+19,Marketing,3094,Automotive / Automotive Parts
+20,Program manager / Project manager,3094,Automotive / Automotive Parts
+21,Quality Manager / Production Engineer,3094,Automotive / Automotive Parts
+22,Sales / Account Sales,3094,Automotive / Automotive Parts
+23,Back Office,3095,Banking & Finance
+24,Compliance,3095,Banking & Finance
+25,Credit / Market Risk,3095,Banking & Finance
+26,Front Office,3095,Banking & Finance
+27,Insurance,3095,Banking & Finance
+28,Internal Audit,3095,Banking & Finance
+29,Middle Office / Product Control,3095,Banking & Finance
+30,Real Estate / NPL,3095,Banking & Finance
+201,Hair Stylist,2995,Beauty / Makeup
+31,Application Engineer / Technical Service Engineer,3096,Chemical / Material
+32,Marketing,3096,Chemical / Material
+33,Quality Engineer / Process Engineer,3096,Chemical / Material
+34,Research & Development,3096,Chemical / Material
+35,Sales,3096,Chemical / Material
+202,Marketing Research,3003,Corporate Marketing
+203,Marketing Strategy,3003,Corporate Marketing
+204,Content / Language,3004,Creative & Content
+205,Marketing Design,3004,Creative & Content
+206,Branding,3004,Creative & Content
+207,Customer Retention,3005,Customer Marketing
+208,Customer Nurturing,3005,Customer Marketing
+209,Account-Based Marketing,3005,Customer Marketing
+210,Community-based Marketing,3005,Customer Marketing
+211,Database Administration,3007,Data Management
+212,Data Security,3007,Data Management
+213,"Data Architecture Analysis and Design
+",3007,Data Management
+214,Content Management,3007,Data Management
+215,"Digital Marketing (SEO Analysis and Design
+ SEM)
+",3008,Demand Generation / Field Marketing
+216,Advertising,3008,Demand Generation / Field Marketing
+217,Promotions,3008,Demand Generation / Field Marketing
+218,Channel & Geography Marketing,3008,Demand Generation / Field Marketing
+36,Automation,3097,Engineering
+37,Building Services,3097,Engineering
+38,Civil / Structural,3097,Engineering
+39,Construction,3097,Engineering
+40,Electrical / Electronic,3097,Engineering
+41,Environmental,3097,Engineering
+42,GeoTechnical,3097,Engineering
+43,Management,3097,Engineering
+44,Materials Handling,3097,Engineering
+45,Oil & Gas,3097,Engineering
+46,Project Management,3097,Engineering
+47,Rail,3097,Engineering
+48,Systems,3097,Engineering
+219,Press & Other Communication,3098,"Events PR & Communication
+"
+220,Event Organization,3098,"Events PR & Communication
+"
+221,Social Media,3098,"Events PR & Communication
+"
+49,CFO,3098,Executive Management
+50,COO,3098,Executive Management
+51,CTO / CIO,3098,Executive Management
+52,Corporate Planning,3098,Executive Management
+53,Country Head,3098,Executive Management
+54,HR Director,3098,Executive Management
+55,Managing Director,3098,Executive Management
+56,President / CEO,3098,Executive Management
+222,Channel Sales,3019,Field / Outside Sales
+223,Territory Sales,3019,Field / Outside Sales
+224,Account Management,3019,Field / Outside Sales
+225,Banking,3019,Financial Services
+226,Investment & Trading,3019,Financial Services
+227,Insurance,3019,Financial Services
+228,Loan Management & Analysis,3019,Financial Services
+229,Claims Management,3019,Financial Services
+230,Executive,3019,Government
+231,Legislative,3019,Government
+232,Armed Forces,3019,Government
+57,Call Center Operations,3099,"HR GA & Facilities
+"
+58,Compensation & Benefits,3099,"HR GA & Facilities
+"
+59,Employee Dev / Training,3099,"HR GA & Facilities
+"
+60,Employee Relations,3099,"HR GA & Facilities
+"
+61,Executive Assistant / PA,3099,"HR GA & Facilities
+"
+62,Facilities,3099,"HR GA & Facilities
+"
+63,General Affairs,3099,"HR GA & Facilities
+"
+64,HR Director,3099,"HR GA & Facilities
+"
+65,HR Generalist,3099,"HR GA & Facilities
+"
+66,HR Information System,3099,"HR GA & Facilities
+"
+67,HR Manager,3099,"HR GA & Facilities
+"
+68,HR Specialist,3099,"HR GA & Facilities
+"
+69,Office Manager,3099,"HR GA & Facilities
+"
+70,Payroll / Social Insurance,3099,"HR GA & Facilities
+"
+71,Recruiting,3099,"HR GA & Facilities
+"
+72,Translator / PA,3099,"HR GA & Facilities
+"
+5,Recruitment,2981,Human Resource(sample only)
+6,Training,2981,Human Resource(sample only)
+7,Payroll,2981,Human Resource(sample only)
+8,Talent Management,2981,Human Resource(sample only)
+87,Application Engineer,3101,Industrial Equipment / Plant / Parts
+88,Engineering,3101,Industrial Equipment / Plant / Parts
+89,Field Service Engineer,3101,Industrial Equipment / Plant / Parts
+90,Management,3101,Industrial Equipment / Plant / Parts
+91,Marketing,3101,Industrial Equipment / Plant / Parts
+92,Operations,3101,Industrial Equipment / Plant / Parts
+93,Project Manager,3101,Industrial Equipment / Plant / Parts
+94,Quality Engineer / Production Engineer,3101,Industrial Equipment / Plant / Parts
+95,Sales / Sales Engineer,3101,Industrial Equipment / Plant / Parts
+233,Telemarketing,3038,Inside Sales
+234,IT Security & Compliance,3041,IT Operations
+235,Network Administration,3041,IT Operations
+236,Storage & Backup,3041,IT Operations
+237,Infrastructure,3041,IT Operations
+238,Help Desk / Customer Support,3041,IT Operations
+239,Telecommunications,3041,IT Operations
+73,Business Analysis,3100,IT & Telecoms
+74,Consulting,3100,IT & Telecoms
+75,Database Engineering / DBA,3100,IT & Telecoms
+76,Desktop / Application Support,3100,IT & Telecoms
+77,Development / Programming SE,3100,IT & Telecoms
+78,IT Management / CIO,3100,IT & Telecoms
+79,Marketing,3100,IT & Telecoms
+80,Network Engineering,3100,IT & Telecoms
+81,Presales,3100,IT & Telecoms
+82,Project Management,3100,IT & Telecoms
+83,Sales,3100,IT & Telecoms
+84,Semiconductor / Embedded Device,3100,IT & Telecoms
+85,System Administration (Windows / Unix),3100,IT & Telecoms
+86,Technical / Customer Support,3100,IT & Telecoms
+96,Legal Affairs,3102,Legal
+97,Patent / Intellectual Property,3102,Legal
+98,Shareholders Meeting / IR,3102,Legal
+99,Application Specialist,3103,Medical Device / Diagnostics / Analytical
+100,Clinical Trial / GCP / CRA,3103,Medical Device / Diagnostics / Analytical
+101,Field Service / Technical Support,3103,Medical Device / Diagnostics / Analytical
+102,Marketing / Business Development,3103,Medical Device / Diagnostics / Analytical
+103,Medical Affairs,3103,Medical Device / Diagnostics / Analytical
+104,Medical Doctors,3103,Medical Device / Diagnostics / Analytical
+105,Medical Education,3103,Medical Device / Diagnostics / Analytical
+106,PMS / Safety Management,3103,Medical Device / Diagnostics / Analytical
+107,Quality Assurance,3103,Medical Device / Diagnostics / Analytical
+108,Regulatory Affairs,3103,Medical Device / Diagnostics / Analytical
+109,Research & Development,3103,Medical Device / Diagnostics / Analytical
+110,Sales / Sales Management,3103,Medical Device / Diagnostics / Analytical
+111,Sales Training / SFE,3103,Medical Device / Diagnostics / Analytical
+112,Business Development / Licensing,3104,Pharmaceutical / CRO / Reagents / Personal Care
+113,CRA / CRC,3104,Pharmaceutical / CRO / Reagents / Personal Care
+114,Clinical Project Manager,3104,Pharmaceutical / CRO / Reagents / Personal Care
+115,GCP Audit,3104,Pharmaceutical / CRO / Reagents / Personal Care
+116,MR / Sales Management,3104,Pharmaceutical / CRO / Reagents / Personal Care
+117,Marketing,3104,Pharmaceutical / CRO / Reagents / Personal Care
+118,Medical Affairs,3104,Pharmaceutical / CRO / Reagents / Personal Care
+119,Medical Doctors,3104,Pharmaceutical / CRO / Reagents / Personal Care
+120,PMS / Data Management,3104,Pharmaceutical / CRO / Reagents / Personal Care
+121,Quality Assurance,3104,Pharmaceutical / CRO / Reagents / Personal Care
+122,Regulatory Affairs,3104,Pharmaceutical / CRO / Reagents / Personal Care
+123,Research & Development,3104,Pharmaceutical / CRO / Reagents / Personal Care
+124,Sales Training / SFE,3104,Pharmaceutical / CRO / Reagents / Personal Care
+240,Product Value Proposition,3054,Product Marketing
+241,Product Launch,3054,Product Marketing
+242,Sales Training and Enablement,3054,Product Marketing
+243,Philanthropy,3058,Public Services / Non-Profit
+244,Pastor,3058,Public Services / Non-Profit
+245,Sponsorship and Philanthropy,3058,Public Services / Non-Profit
+246,Fireman,3058,Public Services / Non-Profit
+125,Accounting,3105,Real Estate & Insurance
+126,Acquisitions,3105,Real Estate & Insurance
+127,Appraisal,3105,Real Estate & Insurance
+128,Asset Management,3105,Real Estate & Insurance
+129,Audit,3105,Real Estate & Insurance
+130,Construction & Development,3105,Real Estate & Insurance
+131,FP&A,3105,Real Estate & Insurance
+132,Portfolio Management,3105,Real Estate & Insurance
+133,Project Management,3105,Real Estate & Insurance
+134,Real Estate Structured Finance,3105,Real Estate & Insurance
+135,Tax,3105,Real Estate & Insurance
+247,Cook,3062,Restaurant / Hospitality
+248,Baker,3062,Restaurant / Hospitality
+249,Waiter / Waitress,3062,Restaurant / Hospitality
+136,Account Management,3106,Sales & Marketing
+137,Advertising,3106,Sales & Marketing
+138,Brand / Product Manager,3106,Sales & Marketing
+139,Business Development,3106,Sales & Marketing
+140,Campaign Marketing,3106,Sales & Marketing
+141,Channel Marketing,3106,Sales & Marketing
+142,Consultant,3106,Sales & Marketing
+143,Corporate Communications / PR,3106,Sales & Marketing
+144,Direct Marketing,3106,Sales & Marketing
+145,Event Manager,3106,Sales & Marketing
+146,Market Research,3106,Sales & Marketing
+147,Marketing Manager / Director,3106,Sales & Marketing
+148,Medical Device / Diagnostics / Analytical,3106,Sales & Marketing
+149,Online Marketing,3106,Sales & Marketing
+150,Other,3106,Sales & Marketing
+151,Pharmaceutical / CRO / Reagents / Personal Care,3106,Sales & Marketing
+152,Product Manager,3106,Sales & Marketing
+153,Sales Management,3106,Sales & Marketing
+154,Sales Representative,3106,Sales & Marketing
+155,Sales Support,3106,Sales & Marketing
+156,Strategic Alliance Management,3106,Sales & Marketing
+157,Strategic Planning,3106,Sales & Marketing
+158,Trade Marketing,3106,Sales & Marketing
+1,Brand Management,3106,Sales & Marketing
+4,Marketing Operations,3106,Sales & Marketing
+2,Product Marketing,3106,Sales & Marketing
+3,Social Marketing,3106,Sales & Marketing
+250,Sales Analytics,3063,Sales Operations
+251,Licensing & Contract,3063,Sales Operations
+252,Performance Management,3063,Sales Operations
+253,Order Management,3063,Sales Operations
+254,Lead Generation & Research,3063,Sales Operations
+255,Technical Sales,3064,Sales Support
+256,Planning & Forecast,3064,Sales Support
+257,Sales Enablement,3064,Sales Support
+258,Sales Finance,3064,Sales Support
+159,Design Engineer / Programmer,3107,Semiconductor / Embedded Device
+160,Field Application Engineering,3107,Semiconductor / Embedded Device
+161,Quality Assurance / Quality Management,3107,Semiconductor / Embedded Device
+162,Sales / Marketing,3107,Semiconductor / Embedded Device
+163,Buyer / Merchandizing,3108,Supply Chain Management
+164,Customer Service,3108,Supply Chain Management
+165,Demand / Supply Planning,3108,Supply Chain Management
+166,"Direct / In-direct Purchasing SEM)
+ Procurement
+",3108,Supply Chain Management
+167,Distribution,3108,Supply Chain Management
+168,Factory / Plant Management,3108,Supply Chain Management
+169,Import / Export,3108,Supply Chain Management
+170,Inventory Planning / Inventory Control,3108,Supply Chain Management
+171,Logistics,3108,Supply Chain Management
+172,OH&S / EH&S,3108,Supply Chain Management
+173,Order Management,3108,Supply Chain Management
+174,Production Control / Production Planning,3108,Supply Chain Management
+175,Quality Control / Quality Assurance / SQE,3108,Supply Chain Management
+176,SCM Consulting,3108,Supply Chain Management
+177,Supply Chain Management,3108,Supply Chain Management
+178,Warehouse Management,3108,Supply Chain Management
